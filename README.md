@@ -108,28 +108,28 @@ How It Helps Collaboration
 
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
 Public vs. Private Repository on GitHub
-Public Repository 🚀
+Public Repository 
 A public repository is accessible to anyone. It allows users to view, fork, and contribute to the code. It's commonly used for open-source projects, portfolios, and knowledge sharing.
 
 Advantages:
-✅ Increases visibility and attracts contributors.
-✅ Encourages open-source collaboration.
-✅ Great for showcasing work.
+Increases visibility and attracts contributors.
+ Encourages open-source collaboration.
+ Great for showcasing work.
 
 Disadvantages:
-❌ Code is exposed, which may lead to misuse.
-❌ No control over who forks your code.
+ Code is exposed, which may lead to misuse.
+ No control over who forks your code.
 
-Private Repository 🔒
+Private Repository
 A private repository is restricted to invited collaborators only. It’s used for proprietary projects, sensitive data, and business applications.
 
 Advantages:
-✅ Keeps code and data secure.
-✅ Full control over who accesses and contributes.
+ Keeps code and data secure.
+ Full control over who accesses and contributes.
 
 Disadvantages:
-❌ Limits community engagement.
-❌ Requires explicit permission for collaboration.
+ Limits community engagement.
+ Requires explicit permission for collaboration.
 
 Which One to Choose?
 Public: Best for open-source projects, learning, and showcasing work.
